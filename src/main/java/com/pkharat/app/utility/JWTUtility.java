@@ -13,8 +13,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;
 
-import java.io.Serializable;
-
 @Component
 public class JWTUtility implements Serializable {
     private static final long serialVersionUID = 234234523523L;
